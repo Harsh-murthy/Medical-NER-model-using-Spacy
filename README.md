@@ -3,7 +3,7 @@
 This project trains a Named Entity Recognition (NER) model to identify medical entities such as diseases, symptoms, and medications from clinical text using SpaCy.
 
 ## 📁 Dataset
-The dataset used was from [Kaggle - XYZ Dataset](https://www.kaggle.com/...), annotated with medical entity labels.
+The dataset used was from (https://www.kaggle.com/datasets/finalepoch/medical-ner) annotated with medical entity labels.
 
 ## 🧠 Model
 The model was trained using SpaCy's pipeline with custom-labeled entities. Loss decreased steadily over training epochs, indicating learning.
